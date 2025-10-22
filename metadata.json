@@ -1,0 +1,7 @@
+{
+  "name": "Eburon Labs – CSR Studio",
+  "description": "A modern, minimalist, demo-ready portal to showcase and test AI-powered Customer Service Representative (CSR) variants with a simulated dialer experience.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
